@@ -1,0 +1,5 @@
+D:\4_семестр\КСИС\Лаб_1\ScanNetwork\bin\Debug\ScanNetwork.exe
+D:\4_семестр\КСИС\Лаб_1\ScanNetwork\bin\Debug\ScanNetwork.pdb
+D:\4_семестр\КСИС\Лаб_1\ScanNetwork\obj\x86\Debug\ScanNetwork.exe
+D:\4_семестр\КСИС\Лаб_1\ScanNetwork\obj\x86\Debug\ScanNetwork.pdb
+D:\4_семестр\КСИС\Лаб_1\ScanNetwork\obj\x86\Debug\ScanNetwork.csprojResolveAssemblyReference.cache
