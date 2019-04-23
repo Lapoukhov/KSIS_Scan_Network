@@ -119,7 +119,7 @@ namespace ksis_lab
                     }
                 }
             }
-            throw new ArgumentException(string.Format("Can't find subnetmask for IP address '{0}'", address));
+            throw new ArgumentException(string.Format("Can't find subnetmask for IP address  '{0}'", address));
         }
 
         private static int IpToInt32(string ipAddress)
